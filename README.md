@@ -1,10 +1,47 @@
-👋 Hi, #I'm Priyanshu PD, a passionate developer with a strong interest in web development and an array of technical skills. I specialize in:
 
---Front-End: JavaScript, HTML, CSS, React JS, Redux
---Back-End: Node JS, Express, MongoDB
---Other Areas: Cyber Security, Cloud Computing, Networking, Android App Development, SQL, LLM (Language Model)
-   I love building dynamic, user-friendly web applications and exploring new technologies in the world of development. My personal website is available at priyanshu- 
-    pd.github.io/portfolio.updated.
 
-📫 How to reach me:
-Email: pd168725@gmail.com
+---
+
+# 👋 Hi, I'm **Priyanshu PD**
+
+## 🌟 **Passionate Software Developer | Web Enthusiast | Tech Explorer**
+
+I have a deep passion for web development and an extensive set of skills that allow me to build scalable and efficient applications. I’m always excited to work on cutting-edge technologies and innovative solutions.
+
+### 💻 **What I Do**
+
+- **Front-End Development:**  
+  Crafting interactive and dynamic user interfaces using:
+  - **JavaScript**, **HTML**, **CSS**
+  - **React JS**, **JQuery**
+
+- **Back-End Development:**  
+  Building robust server-side logic and APIs using:
+  - **Node JS**, **Express**
+  - **MongoDB** for database management
+
+- **Other Expertise:**  
+  I'm also skilled in:
+  - **Software Development**
+  - **Cloud Computing**
+  - **Networking**
+  - **SQL**
+  - **LLM (Language Model) and Generative AI**
+
+### 🚀 **What Drives Me**
+
+I’m passionate about creating seamless, user-friendly web applications and love exploring the latest tech trends. Whether it's solving complex problems or optimizing user experiences, I always strive to innovate.
+
+### 🌐 **Explore My Work**
+
+You can view my personal projects and portfolio at:  
+🔗 [priyanshu-pd.github.io/portfolio.updated](https://priyanshu-pd.github.io/portfolio.updated/)
+
+### 📬 **Get in Touch**
+
+I’m always open to connecting with like-minded professionals, potential collaborators, or anyone passionate about tech. Feel free to reach out!
+
+📧 Email: [pd168725@gmail.com](mailto:pd168725@gmail.com)
+
+---
+
