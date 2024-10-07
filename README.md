@@ -17,7 +17,7 @@ I have a deep passion for web development and an extensive set of skills that al
 
 - **LLM Development:**  
   Building robust LLM project using:
-  - **Chroma db**, **Langchain **
+  - **Chroma db**, **Langchain**
   - **Streamlit**, **Groq**
 
 - **Other Expertise:**  
