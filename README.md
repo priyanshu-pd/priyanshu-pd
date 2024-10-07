@@ -16,7 +16,7 @@ I have a deep passion for web development and an extensive set of skills that al
   - **Bootstrap**, **JQuery**
 
 - **LLM Development:**  
-  Building robust server-side logic and APIs using:
+  Building robust LLM project using:
   - **Chroma db**, **Langchain **
   - **Streamlit**, **Groq**
 
