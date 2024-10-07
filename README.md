@@ -4,7 +4,7 @@
 
 # 👋 Hi, I'm **Priyanshu PD**
 
-## 🌟 **Passionate Software Developer | Web Enthusiast | Tech Explorer**
+## 🌟 **Passionate Software Developer | Web/ML Enthusiast | Tech Explorer**
 
 I have a deep passion for web development and an extensive set of skills that allow me to build scalable and efficient applications. I’m always excited to work on cutting-edge technologies and innovative solutions.
 
@@ -13,12 +13,12 @@ I have a deep passion for web development and an extensive set of skills that al
 - **Front-End Development:**  
   Crafting interactive and dynamic user interfaces using:
   - **JavaScript**, **HTML**, **CSS**
-  - **React JS**, **JQuery**
+  - **Bootstrap**, **JQuery**
 
-- **Back-End Development:**  
+- **LLM Development:**  
   Building robust server-side logic and APIs using:
-  - **Node JS**, **Express**
-  - **MongoDB** for database management
+  - **Chroma db**, **Langchain **
+  - **Streamlit**, **Groq**
 
 - **Other Expertise:**  
   I'm also skilled in:
