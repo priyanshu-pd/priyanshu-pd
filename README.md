@@ -1,47 +1,54 @@
+# 👋 Hi, I'm Priyanshu Kumar Dubey  
 
-
----
-
-# 👋 Hi, I'm **Priyanshu PD**
-
-## 🌟 **Passionate Software Developer | Web/ML Enthusiast | Tech Explorer**
-
-I have a deep passion for web development and an extensive set of skills that allow me to build scalable and efficient applications. I’m always excited to work on cutting-edge technologies and innovative solutions.
-
-### 💻 **What I Do**
-
-- **Front-End Development:**  
-  Crafting interactive and dynamic user interfaces using:
-  - **JavaScript**, **HTML**, **CSS**
-  - **Bootstrap**, **JQuery**
-
-- **LLM Development:**  
-  Building robust LLM project using:
-  - **Chroma db**, **Langchain**
-  - **Streamlit**, **Groq**
-
-- **Other Expertise:**  
-  I'm also skilled in:
-  - **Software Development**
-  - **Cloud Computing**
-  - **Networking**
-  - **SQL**
-  - **LLM (Language Model) and Generative AI**
-
-### 🚀 **What Drives Me**
-
-I’m passionate about creating seamless, user-friendly web applications and love exploring the latest tech trends. Whether it's solving complex problems or optimizing user experiences, I always strive to innovate.
-
-### 🌐 **Explore My Work**
-
-You can view my personal projects and portfolio at:  
-🔗 [priyanshu-pd.github.io/portfolio.updated](https://priyanshu-pd.github.io/portfolio.updated/)
-
-### 📬 **Get in Touch**
-
-I’m always open to connecting with like-minded professionals, potential collaborators, or anyone passionate about tech. Feel free to reach out!
-
-📧 Email: [pd168725@gmail.com](mailto:pd168725@gmail.com)
+🎓 **CSE (AI)** Graduate | 💻 **Software & AI Engineer** | 🚀 Passionate about **Generative AI & Intelligent Systems**
 
 ---
 
+### 🧠 About Me  
+I’m a Computer Science graduate from **IEM Kolkata**, focused on building impactful **AI-driven** and **data-centric** solutions.  
+I love working on **Generative AI**, **Agentic AI**, and intelligent automation — blending creativity with engineering precision.  
+
+---
+
+### 💼 Experience  
+**AI/ML Research Intern – Tata Consultancy Services (Mar–May 2025)**  
+- Built an AI-based **fashion recommendation POC** using Python, OpenCV & Streamlit.  
+- Enhanced recommendation accuracy by **35–40%**, reducing selection time by **25%**.  
+
+---
+
+### ⚙️ Skills  
+**Languages:** C++, Python, SQL  
+**Core:** Data Structures & Algorithms, Generative AI, Agentic AI, System Design  
+**Tools:** VS Code, Git, Jupyter, Power BI  
+
+---
+
+### 📂 Featured Projects  
+- 🧩 [**AI Cold Email Generator**](https://github.com/priyanshu-pd/COLD-MAIL-GENERATOR) — Context-aware email automation using **Llama 3.1 + LangChain**.  
+- 📊 [**HR Analytics Dashboard**](https://github.com/priyanshu-pd/HR-Analytics) — Interactive attrition analysis using **Power BI**.  
+
+---
+
+### 🏅 Achievements  
+- Solved **250+ coding problems** across LeetCode, GFG & HackerRank  
+- Hackathon participant — **Sytron 2023, IEM**  
+- Certified in **Generative AI (Google Cloud)** & **Problem Solving (HackerRank)**  
+
+---
+
+### 📫 Connect With Me  
+📧 [pd168725@gmail.com](mailto:pd168725@gmail.com)  
+🌐 [Portfolio](https://priyanshu-pd.github.io/portfolio.updated/)  
+💼 [LinkedIn](https://www.linkedin.com/in/priyanshu-kumar-dubey-69a065221/)  
+
+---
+
+### 📊 GitHub Stats  
+![Priyanshu's GitHub Stats](https://github-readme-stats.vercel.app/api?username=priyanshu-pd&show_icons=true&theme=tokyonight&hide_border=true)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=priyanshu-pd&layout=compact&theme=tokyonight&hide_border=true)  
+![GitHub Streak](https://streak-stats.demolab.com/?user=priyanshu-pd&theme=tokyonight&hide_border=true)
+
+---
+
+⭐ *Always open to collaborations in AI, software development, and data-driven projects.*
