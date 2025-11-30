@@ -46,9 +46,21 @@ I love working on **Generative AI**, **Agentic AI**, and intelligent automation 
 
 ### 📊 GitHub Stats  
 
-![Priyanshu's GitHub Stats](https://github-readme-stats.vercel.app/api?username=priyanshu-pd&show_icons=true&theme=tokyonight&hide_border=true)
+<div align="center">
+  
+![Priyanshu's GitHub Stats](https://github-readme-stats.vercel.app/api?username=priyanshu-pd&show_icons=true&theme=radical&hide_border=true&count_private=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=priyanshu-pd&layout=compact&theme=tokyonight&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=priyanshu-pd&layout=compact&theme=radical&hide_border=true)
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=priyanshu-pd&theme=radical&hide_border=true)
+
+</div>
+
+---
+
+### 🔥 Recent Activity  
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
 
 ---
 
