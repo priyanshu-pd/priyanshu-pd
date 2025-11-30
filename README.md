@@ -5,7 +5,7 @@
 ---
 
 ### 🧠 About Me  
-I’m a Computer Science graduate from **IEM Kolkata**, focused on building impactful **AI-driven** and **data-centric** solutions.  
+I'm a Computer Science graduate from **IEM Kolkata**, focused on building impactful **AI-driven** and **data-centric** solutions.  
 I love working on **Generative AI**, **Agentic AI**, and intelligent automation — blending creativity with engineering precision.  
 
 ---
@@ -47,8 +47,8 @@ I love working on **Generative AI**, **Agentic AI**, and intelligent automation 
 ### 📊 GitHub Stats  
 
 ![Priyanshu's GitHub Stats](https://github-readme-stats.vercel.app/api?username=priyanshu-pd&show_icons=true&theme=tokyonight&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=priyanshu-pd&layout=compact&theme=tokyonight&hide_border=true)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=priyanshu-pd&layout=compact&theme=tokyonight&hide_border=true)
 
 ---
 
